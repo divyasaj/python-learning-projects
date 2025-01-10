@@ -1,4 +1,4 @@
-# This is my first program to create a AL Agent
+# This is my first program to create a AI Agent
 
 from dotenv import load_dotenv
 load_dotenv()
